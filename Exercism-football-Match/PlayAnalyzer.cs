@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercism_football_Match
 {
-    public class PlayeAnalyzer
+    public class PlayAnalyzer
     {
         public static string AnalyzeOnField(int shirtNum)
        => (shirtNum) switch
